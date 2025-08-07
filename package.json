@@ -8,7 +8,11 @@
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
     "predeploy": "npm run build",
+<<<<<<< HEAD
     "deploy": "gh-pages -d dist"
+=======
+    "deploy": "gh-pages -b main -d dist"    
+>>>>>>> parent of 21bd36e (Updates)
   },
   "keywords": [
     "momentum",
@@ -17,7 +21,11 @@
     "quotes",
     "clock"
   ],
+<<<<<<< HEAD
   "author": "Matt Batey",
+=======
+  "author": "Your Name",
+>>>>>>> parent of 21bd36e (Updates)
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
@@ -31,7 +39,11 @@
     "babel-preset-react": "^6.24.1",
     "css-loader": "^7.1.2",
     "dotenv": "^17.2.1",
+<<<<<<< HEAD
     "gh-pages": "^6.1.0",
+=======
+    "gh-pages": "^6.3.0",
+>>>>>>> parent of 21bd36e (Updates)
     "style-loader": "^4.0.0",
     "webpack": "^5.101.0",
     "webpack-cli": "^6.0.1",
