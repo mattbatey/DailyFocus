@@ -1,1 +1,40 @@
-// Placeholder for package.json
+{
+  "name": "daily-focus",
+  "version": "1.0.0",
+  "description": "A web application that replicates the functionality of Momentum Dash, featuring a customizable dashboard with a clock, greeting, quotes, and to-do list.",
+  "homepage": "https://mattbatey.github.io/DailyFocus/",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+  },
+  "keywords": [
+    "momentum",
+    "dashboard",
+    "to-do",
+    "quotes",
+    "clock"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.0",
+    "@babel/preset-react": "^7.27.1",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^8.2.3",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^7.1.2",
+    "dotenv": "^17.2.1",
+    "gh-pages": "^6.3.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.101.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
