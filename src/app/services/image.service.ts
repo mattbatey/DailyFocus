@@ -1,0 +1,1 @@
+// Placeholder for src/app/services/image.service.ts
