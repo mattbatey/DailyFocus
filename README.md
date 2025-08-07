@@ -1,6 +1,6 @@
-# Momentum Dash Clone
+# Daily Focus app
 
-This project is a web application that replicates the functionality of Momentum Dash, providing users with a personalized dashboard experience. It includes features such as a customizable background, real-time clock, personalized greetings, random quotes, and a to-do list, all while utilizing local storage to save user preferences and data.
+This project is a web application that providing users with a personalized dashboard experience. It includes features such as a customizable background, real-time clock, personalized greetings, random quotes, and a to-do list, all while utilizing local storage to save user preferences and data.
 
 ## Features
 
@@ -14,11 +14,11 @@ This project is a web application that replicates the functionality of Momentum 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/momentumdash-clone.git
+   git clone https://github.com/yourusername/dailyfocus.git
    ```
 2. Navigate to the project directory:
    ```
-   cd momentumdash-clone
+   cd dailyfocus
    ```
 3. Install the dependencies:
    ```
