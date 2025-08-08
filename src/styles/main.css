@@ -38,7 +38,7 @@ body {
     font-weight: 500;;
 }
 
-.greeting, .content, .intro {
+.greeting, .intro {
     font-size: 2.5em;
     margin: 10px 0;
 }
