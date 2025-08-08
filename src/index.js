@@ -12,10 +12,12 @@ const App = () => {
     return (
         <div className="app">
             <Background />
-            <Clock />
-            <Greeting />
-            <MainFocus />
-            <Quote />
+            <div className="content">
+                <Clock />
+                <Greeting />
+                <MainFocus />
+                <Quote />
+            </div>
             <Todo />
         </div>
     );

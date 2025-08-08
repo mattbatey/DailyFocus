@@ -23,6 +23,15 @@ body {
     margin-bottom: 20px;
 }
 
+.app {
+    height: 100vh;
+}
+
+.content {
+    margin: 25% auto;
+    transform: translate(0, -50%);
+}
+
 .clock {
     font-size: 9rem;
     margin: 70px 0 10px 0;
@@ -99,7 +108,7 @@ body {
 }
 
 .quote-container{
-    margin: 70px auto 0;
+    margin: 10% auto 0;
     font-style: italic;
     max-width: 60vw;
 }
