@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DailyFocus/static/css/main.91d48118.css",
+    "main.css": "/DailyFocus/static/css/main.c1011bd1.css",
     "main.js": "/DailyFocus/static/js/main.c28e7c0a.js",
     "index.html": "/DailyFocus/index.html",
-    "main.91d48118.css.map": "/DailyFocus/static/css/main.91d48118.css.map",
+    "main.c1011bd1.css.map": "/DailyFocus/static/css/main.c1011bd1.css.map",
     "main.c28e7c0a.js.map": "/DailyFocus/static/js/main.c28e7c0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.91d48118.css",
+    "static/css/main.c1011bd1.css",
     "static/js/main.c28e7c0a.js"
   ]
 }
