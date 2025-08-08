@@ -14,6 +14,7 @@ module.exports = {
   plugins: [
     new webpack.DefinePlugin({
       'process.env.REACT_APP_UNSPLASH_ACCESS_KEY': JSON.stringify(process.env.REACT_APP_UNSPLASH_ACCESS_KEY),
+      'process.env.REACT_APP_API_NINJAS_KEY': JSON.stringify(process.env.REACT_APP_API_NINJAS_KEY)
     }),
   ],
   module: {

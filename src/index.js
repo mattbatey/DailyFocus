@@ -15,6 +15,7 @@ const App = () => {
             <Clock />
             <Greeting />
             <MainFocus />
+            <Quote />
             <Todo />
         </div>
     );
